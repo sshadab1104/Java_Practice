@@ -1,4 +1,4 @@
-package Feb_2026.Feb_16;
+package Feb_2026.Feb_16_Java_Foundation;
 
 public class P001_PrintPersonalInfo {
     public static void main(String[] args) {

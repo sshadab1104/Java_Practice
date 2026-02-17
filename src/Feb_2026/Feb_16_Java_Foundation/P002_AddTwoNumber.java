@@ -1,4 +1,4 @@
-package Feb_2026.Feb_16;
+package Feb_2026.Feb_16_Java_Foundation;
 
 public class P002_AddTwoNumber {
     public static void main(String[] args) {
